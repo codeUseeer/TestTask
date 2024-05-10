@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NdPKNCGMce2ogXK27fxlWsZaMIssZrc+LUU1kvrgGjQjwOrZ+UcN2eo+pMWC8NZVPRndynyrtvhC5JQdCGIo0A==",
+  "success": true,
+  "projectFilePath": "D:\\PHP\\C#\\TestTask\\Geometry\\Geometry\\TestTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\MyPC\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\MyPC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
